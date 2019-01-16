@@ -26,7 +26,6 @@ Test Decision Tree
 
 #Fill NA
 df_tr_num_fna = df_tr_num.fillna(-10000)
-df_tr_num_fna
 
 #Target variable
 df_tr_num_fna_tg = df_tr_num_fna.iloc[:,1:-1]
