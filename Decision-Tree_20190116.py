@@ -1,5 +1,6 @@
 """
-Decition tree for manufacturing
+Decision tree for manufacturing data
+Need to install graphviz to see decision-tree graph.
 """
 
 import pandas as pd
